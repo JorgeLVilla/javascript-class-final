@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+}
+
+.hero_img{
+    background-image: url(../img/sky.jpg);
+    background-size: cover;
+    background-repeat: none;
+    background-position: center center;
+}
+
+.galaxy_img{
+    background-image: url(../img/galaxy.jpg);
+    background-size: cover;
+    background-repeat: none;
+    background-position: center center;
+}
+
+.toy_ball_img{
+        background-image: url(../img/toymagic8.jpg);
+        background-size: cover;
+        background-repeat: none;
+        background-position: center center;
+        height: 500px;
+}
